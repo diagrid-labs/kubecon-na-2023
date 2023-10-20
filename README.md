@@ -20,7 +20,11 @@ See the entire schedule [here](https://colocatedeventsna2023.sched.com/overview/
 
 ### Diagrid Booth
 
-Come visit the Diagrid sponsor booth to talk about [Dapr](https://dapr.io) and our products, get some swag, enter the lottery to win the Lego NASA Apollo Moonlander,and get a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
+Come visit the Diagrid sponsor booth to:
+
+- Talk about [Dapr](https://dapr.io) and our products.
+- Get some swag and enter the lottery to win the Lego NASA Apollo Moonlander.
+- Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
 
 ## 2 KubeCon
 
@@ -30,11 +34,17 @@ Come and see us at KubeCon, the Cloud Native Computing Foundation’s flagship c
 
 - Nov 8th, 3:25pm [Achieving Functional Quality in a Multi-Cloud Runtime - Artur Souza & Yaron Schneider, Diagrid
 ](https://kccncna2023.sched.com/event/1R2rk/achieving-functional-quality-in-a-multi-cloud-runtime-artur-souza-yaron-schneider-diagrid?iframe=no&w=100%&sidebar=yes&bg=no)
-- Nov 9th, 11:00am [Dapr, Workflows, and the Road Ahead - Mark Fussell & Chris Gillium, Diagrid
+- Nov 9th, 11:00am [Dapr, Workflows, and the Road Ahead - Mark Fussell & Chris Gillum, Diagrid
 ](https://kccncna2023.sched.com/event/1R2ta/dapr-workflows-and-the-road-ahead-mark-fussell-chris-gillium-diagrid?iframe=no&w=100%&sidebar=yes&bg=no)
 
 ### Diagrid Booth
 
-Come visit the Diagrid sponsor booth to talk about [Dapr](https://dapr.io) and our products, get some swag, enter the lottery to win the Lego NASA Space Shuttle, and get a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
+Come visit the Diagrid sponsor booth to:
+
+- Talk about [Dapr](https://dapr.io) and our products.
+- Get some swag and enter the lottery to win the Lego NASA Space Shuttle.
+- Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
 
 ## 3 Demos
+
+- [Dapr Workflow demos](https://github.com/diagrid-labs/dapr-workflow-demos)

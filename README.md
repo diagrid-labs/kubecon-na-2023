@@ -16,7 +16,7 @@ AppDeveloperCon is designed for developers at all levels who are involved in the
 - 12:10am [⚡ Lightning Talk: Where Has My Circuit Breaker Gone?](https://colocatedeventsna2023.sched.com/event/1Rj3Z/cl-lightning-talk-where-has-my-circuit-breaker-gone-bilgin-ibryam-diagrid) - Bilgin Ibryam, Diagrid
 - 2:05pm [Dapr Workflows: The Key to Simplifying Business Process Orchestration](https://colocatedeventsna2023.sched.com/event/1Rj4d/dapr-workflows-the-key-to-simplifying-business-process-orchestration-alice-gibbons-kendall-roden-diagrid) - Alice Gibbons & Kendall Roden, Diagrid
 
-See the entire schedule [here](https://colocatedeventsna2023.sched.com/overview/area/AppDeveloperCon?iframe=no).
+See the entire AppDeveloperCon schedule [here](https://colocatedeventsna2023.sched.com/overview/area/AppDeveloperCon?iframe=no).
 
 ### Diagrid Booth
 
@@ -36,6 +36,8 @@ Come and see us at KubeCon, the Cloud Native Computing Foundation’s flagship c
 ](https://kccncna2023.sched.com/event/1R2rk/achieving-functional-quality-in-a-multi-cloud-runtime-artur-souza-yaron-schneider-diagrid?iframe=no&w=100%&sidebar=yes&bg=no)
 - Nov 9th, 11:00am [Dapr, Workflows, and the Road Ahead - Mark Fussell & Chris Gillum, Diagrid
 ](https://kccncna2023.sched.com/event/1R2ta/dapr-workflows-and-the-road-ahead-mark-fussell-chris-gillium-diagrid?iframe=no&w=100%&sidebar=yes&bg=no)
+
+See the entire KubeCon schedule [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/.)
 
 ### Diagrid Booth
 

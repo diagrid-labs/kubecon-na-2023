@@ -24,7 +24,7 @@ Come visit the Diagrid sponsor booth to:
 
 - Talk about [Dapr](https://dapr.io) and our products.
 - Get some swag and enter the lottery to win the Lego NASA Apollo Moonlander.
-- Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
+- Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by [@salaboy](https://github.com/salaboy)!
 
 ## 2 KubeCon
 
@@ -43,7 +43,7 @@ Come visit the Diagrid sponsor booth to:
 
 - Talk about [Dapr](https://dapr.io) and our products.
 - Get some swag and enter the lottery to win the Lego NASA Space Shuttle.
-- Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
+- Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by [@salaboy](https://github.com/salaboy)!
 
 ## 3 Demos
 

@@ -1,10 +1,10 @@
 # Diagrid @ KubeCon & AppDeveloperCon Chicago 2023
 
-[AppDeveloperCon](#appdevelopercon)
-[KubeCon](#kubecon)
-[Demos](#demos)
+1. [AppDeveloperCon](#1-appdevelopercon)
+2. [KubeCon](#2-kubecon)
+3. [Demos](#3-demos)
 
-## AppDeveloperCon
+## 1 AppDeveloperCon
 
 Please join us at [AppDeveloperCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/appdevelopercon/) on Nov 6th, [McCormick Place West](https://www.mccormickplace.com/), Chicago, room W178AB.
 
@@ -22,8 +22,19 @@ See the entire schedule [here](https://colocatedeventsna2023.sched.com/overview/
 
 Come visit the Diagrid sponsor booth to talk about [Dapr](https://dapr.io) and our products, get some swag, enter the lottery to win the Lego NASA Apollo Moonlander,and get a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
 
-## KubeCon
+## 2 KubeCon
+
+Come and see us at KubeCon, the Cloud Native Computing Foundation’s flagship conference that brings togther adopters and technologists from leading open source and cloud native communities.
 
 ### Sessions by Diagridians
 
-## Demos
+- Nov 8th, 3:25pm [Achieving Functional Quality in a Multi-Cloud Runtime - Artur Souza & Yaron Schneider, Diagrid
+](https://kccncna2023.sched.com/event/1R2rk/achieving-functional-quality-in-a-multi-cloud-runtime-artur-souza-yaron-schneider-diagrid?iframe=no&w=100%&sidebar=yes&bg=no)
+- Nov 9th, 11:00am [Dapr, Workflows, and the Road Ahead - Mark Fussell & Chris Gillium, Diagrid
+](https://kccncna2023.sched.com/event/1R2ta/dapr-workflows-and-the-road-ahead-mark-fussell-chris-gillium-diagrid?iframe=no&w=100%&sidebar=yes&bg=no)
+
+### Diagrid Booth
+
+Come visit the Diagrid sponsor booth to talk about [Dapr](https://dapr.io) and our products, get some swag, enter the lottery to win the Lego NASA Space Shuttle, and get a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by @salaboy!
+
+## 3 Demos

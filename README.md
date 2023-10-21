@@ -1,11 +1,11 @@
 # Diagrid @ KubeCon & AppDeveloperCon Chicago 2023
 
 1. [AppDeveloperCon](#1-appdevelopercon)
-2. [KubeCon](#2-kubecon)
-3. [Demos](#3-demos)
+2. [Dapr project update](#2-dapr-project-update)
+3. [KubeCon](#3-kubecon)
+4. [Demos](#4-demos)
 
 ## 1 AppDeveloperCon
-
 Please join us at [AppDeveloperCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/appdevelopercon/) on Nov 6th, [McCormick Place West](https://www.mccormickplace.com/), Chicago, room W178AB.
 
 AppDeveloperCon is designed for developers at all levels who are involved in the architecture, design, and development (using any programming language) of cloud-native applications.
@@ -26,7 +26,17 @@ Come visit the Diagrid sponsor booth to:
 - Get some swag and enter the lottery to win the Lego NASA Apollo Moonlander.
 - Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by [@salaboy](https://github.com/salaboy)!
 
-## 2 KubeCon
+### 2 Dapr project update
+
+The Dapr project is organizing a meeting on Nov 6th at the Hilton, level 3, Peerless room, where maintainers share the latest news and direction of the project.
+
+Daigridians present at the Dapr project meeting are:
+
+- Mark Fussell (maintainer)
+- Artus Souza (maintainer)
+- Marc Duiker (community manager)
+
+## 3 KubeCon
 
 Come and see us at KubeCon, the Cloud Native Computing Foundation’s flagship conference that brings togther adopters and technologists from leading open source and cloud native communities.
 
@@ -47,6 +57,6 @@ Come visit the Diagrid sponsor booth to:
 - Get some swag and enter the lottery to win the Lego NASA Space Shuttle.
 - Obtain a signed copy of [Platform engineering on K8s](https://www.manning.com/books/platform-engineering-on-kubernetes) by [@salaboy](https://github.com/salaboy)!
 
-## 3 Demos
+## 4 Demos
 
 - [Dapr Workflow demos](https://github.com/diagrid-labs/dapr-workflow-demos)

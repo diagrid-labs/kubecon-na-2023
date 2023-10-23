@@ -28,12 +28,15 @@ Come visit the Diagrid sponsor booth to:
 
 ### 2 Dapr project update
 
-The Dapr project is organizing a meeting on Nov 6th at the Hilton, level 3, Peerless room, where maintainers share the latest news and direction of the project.
+The Dapr project is organizing a meeting on Nov 6th at the Hilton, where maintainers share the latest news and direction of the project. Come and join if you want to learn about Dapr and the latest features.
+
+🕐 1:00-3:00pm 
+📍 Hilton, level 3, Peerless room
 
 Daigridians present at the Dapr project meeting are:
 
 - Mark Fussell (maintainer)
-- Artus Souza (maintainer)
+- Artur Souza (maintainer)
 - Marc Duiker (community manager)
 
 ## 3 KubeCon

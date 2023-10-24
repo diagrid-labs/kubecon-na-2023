@@ -34,7 +34,7 @@ The Dapr project is organizing a meeting on Nov 6th at the Hilton, where maintai
 
 - 📅 Nov 6
 - 🕐 1:00-3:00pm
-- 📍 [Hampton Inn Chicago McCormick Place](https://maps.app.goo.gl/tfhyzyE6fMdw8nHg8), level 3, Peerless room
+- 📍 [Hilton Garden Inn Chicago McCormick Place](https://maps.app.goo.gl/MrnagtKaLfYBcTbh6), level 3, Peerless room
 
 Diagrid speakers present at the Dapr project meeting are:
 
